@@ -1,0 +1,1 @@
+This is my laboratory work on C-language number 2. I created memory dispatcher, which simulate memory allocation, free memory on OS.
